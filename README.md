@@ -51,7 +51,7 @@ Big data processing and cloud computing for data science
 * Data Analysis
 * Data Visualization
 * Basic Statistics
-* Machine Learning (Beginner Level)
+* Machine Learning 
 
 ---
 
@@ -62,7 +62,7 @@ Big data processing and cloud computing for data science
 * NumPy
 * Matplotlib
 * Seaborn
-* Scikit-learn (if ML is used)
+* Scikit-learn 
 
 ---
 
@@ -100,7 +100,7 @@ Big data processing and cloud computing for data science
    * Histograms
    * Box plots
 
-5. **(Optional) Machine Learning**
+5. ** Machine Learning**
 
    * Model training
    * Prediction
@@ -165,7 +165,7 @@ By completing this project, I learned:
 * How to clean real-world data
 * How to visualize patterns
 * How to extract meaningful insights
-* Basics of machine learning workflow
+* Core concepts of machine learning workflow
 
 ---
 

@@ -1,7 +1,7 @@
 # 📊 Data Science Beginner Project
 
 Welcome! 👋
-This repository is part of my journey as a **Data Science student**, where I explore data analysis, visualization, and basic machine learning concepts using Python.
+This repository is part of my journey as a **Data Science student**, where I explore data analysis, visualization, and basic to advanced  machine learning concepts using Python.
 
 ---
 

@@ -13,7 +13,7 @@ This project focuses on:
 * Performing data cleaning
 * Exploring data using statistics
 * Visualizing insights using graphs
-* Applying basic machine learning (if included)
+* Applying basic to advanced  machine learning 
 
 It is designed for **learning and practice purposes**.
 
@@ -23,6 +23,25 @@ It is designed for **learning and practice purposes**.
 
 **Shahzaib Munwar (Shahzaib)**
 Artificial Intelligence Student | Data Science Enthusiast
+
+---
+
+## Experience 
+  2 YEARS OF EXPERINCE IN FOLLOWING AREAS OF ML
+  
+ Using Machine Learning and its different model
+like LOGISTIC REGRESSION MODEL, KNN CLASSIFIER MODEL, TREES, RANDOM FORESTS.
+
+Model evaluation and metrics  like ACCURACY, PRECISION, RECALL, F1-SCORE,
+ROC-AUC. Choosing the right metric.
+
+Model Improvement & Tuning, Cross-validation and Hyperparameter
+Tuning using GridSearchCV.
+
+Data Preprocessing Handling categorical data (One-Hot Encoding), 
+feature scaling (Standardization/Normalization).
+
+Big data processing and cloud computing for data science
 
 ---
 

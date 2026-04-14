@@ -1,5 +1,4 @@
-# Data Science Project
-
+SHAHZAIB MUNWAR 
 
 This repository is part of my journey as a **Data Science student**, where I explore data analysis, visualization, and basic to advanced  machine learning concepts using Python.
 

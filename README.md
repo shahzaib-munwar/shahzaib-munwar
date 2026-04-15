@@ -1,8 +1,8 @@
 SHAHZAIB MUNWAR 
+--
+## This repository is part of my journey as a **Data Science student**, where I explore data analysis, visualization, and basic to advanced  machine learning concepts using Python.
 
-This repository is part of my journey as a **Data Science student**, where I explore data analysis, visualization, and basic to advanced  machine learning concepts using Python.
 
----
 
 ## DETAILS ABOUT PROJECT
 This project focuses on:
@@ -15,14 +15,13 @@ This project focuses on:
 
 It is designed for **learning and practice purposes**.
 
----
 
 ## ABOUT ME 
 
 **Shahzaib Munwar (Shahzaib)**
 Artificial Intelligence Student | Data Science Enthusiast
 
----
+
 
 ## Experience 
   2 YEARS OF EXPERINCE IN FOLLOWING AREAS OF ML
@@ -41,38 +40,14 @@ feature scaling (Standardization/Normalization).
 
 Big data processing and cloud computing for data science
 
----
 
 ## AREA OF EXPERTIES
 
-* Python Programming          * Data Analysis      * Data Visualization        * Basic Statistics        * Machine Learning 
-
----
-
-## Technologies Used
-
-* Python     * Pandas    * NumPy    * Matplotlib  * Seaborn    * Scikit-learn 
-
----
-
-## 📈 Example Visualizations
-
-* Survival Count (Bar Chart)
-* Fare Distribution (Box Plot)
-* Age Distribution (Histogram)
-
----
+* Python Programming                * Data Visualization        * Basic Statistics        * Machine Learning 
 
 
-## TO RUN
-
-```bash
-# If using Jupyter Notebook
-jupyter notebook
-
-# OR if using Python script
-python main.py
-```
+## Skills 
+* Python     * Pandas    * NumPy    * Matplotlib  * Seaborn    * Scikit-learn   * Data Visualization 
 
 ---
 
@@ -89,8 +64,6 @@ By completing this project, I learned:
 
 ##  Future Improvements
 
-* Add advanced machine learning models
-* Improve visualization dashboard
-* Deploy project as a web app
+* More advanced machine learning models
+* Improved visualization dashboard
 
----

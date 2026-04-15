@@ -49,18 +49,6 @@ Big data processing and cloud computing for data science
 ## Skills 
 * Python     * Pandas    * NumPy    * Matplotlib  * Seaborn    * Scikit-learn   * Data Visualization 
 
----
-
-## Learning Outcomes
-
-By completing this project, I learned:
-
-* How to clean real-world data
-* How to visualize patterns
-* How to extract meaningful insights
-* Core concepts of machine learning workflow
-
----
 
 ##  Future Improvements
 
